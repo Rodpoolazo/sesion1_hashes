@@ -1,4 +1,4 @@
-# mostras sola las ventas Mayores a 45.000
+# muestra sola las ventas Mayores a 45.000 como numero
 ventas = {
 Enero: 15000, Febrero: 22000, Marzo: 12000, Abril: 17000,
 Mayo: 81000, Junio: 13000,

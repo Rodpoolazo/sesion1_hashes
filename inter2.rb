@@ -1,4 +1,4 @@
-# mostras solo los meses que las ventas Mayores a 45.000
+# muestra solo los meses que las ventas Mayores a 45.000 solo el mes
 ventas = {
 Enero: 15000, Febrero: 22000, Marzo: 12000, Abril: 17000,
 Mayo: 81000, Junio: 13000,
